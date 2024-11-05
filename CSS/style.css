@@ -1,0 +1,59 @@
+body{
+    all: unset;
+    align-items: center;
+    justify-content: center;
+background-color: purple;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+}
+.overallflex{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 0;
+
+    gap: 50px;
+}
+.flexbox{
+    gap: 50px;
+    align-items: ;
+    justify-content: center;
+    display: flex;
+}
+.menu{
+    width: 400px;
+    height: 800px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 0;
+    gap: 0px;
+    margin-left: 0;
+    margin-right: 50px;
+}
+.flex{
+    float: left;
+    display: flex;
+    align-items: flex-start;
+}
+.steeze{
+    text-shadow: 5px solid;
+    color: gold;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+p{
+    text-decoration: none;
+
+}
